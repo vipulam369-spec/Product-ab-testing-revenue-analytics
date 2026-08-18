@@ -299,34 +299,6 @@ See:
 
 ---
 
-## Project Structure
-
-```text
-Product-ab-testing-revenue-analytics/
-│
-├── Screenshots/
-│   ├── SC1.png
-│   ├── SC2.png
-│   └── SC3.png
-│
-├── case-study/
-│   └── Executive Case Study PDF
-│
-├── dashboard/
-│   └── Final Power BI Dashboard
-│
-├── notebook/
-│   └── Complete A/B Testing & Revenue Analytics Notebook
-│
-└── sql/
-    ├── 00_setup.sql
-    ├── 01_experiment_overview.sql
-    ├── 02_conversion_analysis.sql
-    ├── 03_revenue_analysis.sql
-    ├── 04_population_linkage.sql
-    └── 05_business_questions.sql
----
-
 ## Tools & Skills Demonstrated
 
 ### Python
